@@ -1,6 +1,6 @@
 %% Exercise 6- Associative memory Hopfield network
 
-% yair lahad 205493018
+% Yair Lahad
 clear; close all; clc;
 % This code creates numerical simulation of attractors in a netwrok of neurons
 % Using an Hopfield network with Asynchronous dynamic
